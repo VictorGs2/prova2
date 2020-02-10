@@ -1,0 +1,157 @@
+body {
+  /* font-size: .875rem; */
+  overflow: hidden;
+}
+
+#cadastrar {
+  text-decoration: none;
+  font-weight: lighter;
+  color: #282D31;
+  font-size: x-large;
+  margin-right: 35%;
+  float: right;
+}
+
+#cadastrar:hover {
+  color: #34393D;
+}
+
+hr.style-two {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.login-container {
+  margin-left: 15%;
+  margin-top: 5%;
+}
+
+.login-form-2 {
+  padding: 5%;
+  background: #34393D;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-form-2 h3 {
+  text-align: center;
+  color: #fff;
+}
+
+.login-container form {
+  padding: 5%;
+}
+
+.btnSubmit {
+  width: 50%;
+  border-radius: 1rem;
+  padding: 1.5%;
+  border: none;
+  cursor: pointer;
+}
+
+.login-form-2 .btnSubmit {
+  font-weight: 600;
+  color: #34393D;
+  background-color: #fff;
+}
+
+.login-form-2 .ForgetPwd {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* .content-wrapper {
+  
+} */
+
+.main-header {
+  padding-top: 1.6%;
+}
+
+.nav-item #botaoSair:hover {
+  text-decoration: none;
+}
+
+.nav-item #botaoSair {
+  color: #fff;
+}
+
+aside a span {
+  margin-left: 10%;
+}
+
+p.status {
+  color: white;
+}
+
+div#msg {
+  color: #34393D;
+  float: right;
+  margin-right: 5%;
+  font-size: 400%;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.form-control.btn-register {
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 5%;
+  border-radius: 1rem;
+  border: none;
+  cursor: pointer;
+}
+.form-control.btn-edit1 {
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 2%;
+  border-radius: 1rem;
+  border: none;
+  cursor: pointer;
+}
+.form-control.btn-edit2 {
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 1%;
+  border-radius: 1rem;
+  border: none;
+  cursor: pointer;
+}
+form.formRegister {
+  margin-top: 5%;
+}
+form.formRegister .h1 {
+  margin-bottom: 7%;
+  margin-left: 7%;
+}
+form.formEdit {
+  margin-top: 4%;
+}
+form.formEdit .h1 {
+  margin-bottom: 6%;
+  margin-left: 7%;
+}
+.form-control.btn-register {
+  font-weight: 600;
+  color: #fff;
+  background-color: #34393D;
+}
+.form-control.btn-edit1 {
+  font-weight: 600;
+  color: #fff;
+  background-color: #34393D;
+}
+.form-control.btn-edit2 {
+  font-weight: 600;
+  color: #fff;
+  background-color: #34393D;
+}
+div.col#col1 {
+  margin-left: 7%;
+}
+
+div.col#col2 {
+  margin-right: 5%;
+}
